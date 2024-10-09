@@ -1,0 +1,47 @@
+General DevOps Concepts
+1. What is DevOps and why is it important?
+2. Explain the difference between DevOps and Agile.
+3. What are the key benefits of implementing DevOps?
+4. What are the main components of a DevOps pipeline?
+5. What is the role of CI/CD in DevOps?
+6. How do you approach infrastructure as code (IaC)?
+7. What are some common DevOps tools and their uses?
+8. Explain the concept of "Shift Left" in DevOps.
+9. What is the difference between CI & CD?
+10. How do you handle version control in a DevOps environment?
+
+💘 CI/CD Pipelines
+11. What is a CI/CD pipeline?
+12. How do you implement a CI/CD pipeline from scratch?
+13. What are the common stages of a CI/CD pipeline?
+14. How do you manage secrets in a CI/CD pipeline?
+15. Explain the importance of automated testing in CI/CD.
+16. How do you ensure that deployments are zero-downtime?
+17. What tools do you use for CI/CD?
+18. How do you handle rollbacks in CI/CD?
+19. What is the purpose of artifact repositories in CI/CD?
+20. How do you manage dependencies in a CI/CD pipeline?
+
+💘 Containerization & Orchestration
+21. What is Docker, and how does it work?
+22. How do containers differ from virtual machines?
+23. Explain the concept of Docker Compose.
+24. What is Kubernetes, and why is it used?
+25. How do you deploy a Kubernetes cluster?
+26. What are Kubernetes Pods, and how do they work?
+27. How do you manage Kubernetes secrets?
+28. What are Kubernetes Ingress and Services?
+29. How do you monitor and scale a Kubernetes cluster?
+30. Explain the concept of service mesh in Kubernetes.
+
+💘 Cloud Platforms
+31. What is the difference between IaaS, PaaS, and SaaS?
+32. Explain the concept of cloud formation and infrastructure as code.
+33. How do you implement high availability in AWS?
+34. What are the benefits of using cloud-native tools?
+35. How do you manage cost optimization in cloud platforms?
+36. Explain the concept of auto-scaling in AWS.
+37. How do you secure a cloud environment?
+38. What is the importance of tagging resources in the cloud?
+39. How do you handle disaster recovery in the cloud?
+40. What are the different storage options available in AWS?
